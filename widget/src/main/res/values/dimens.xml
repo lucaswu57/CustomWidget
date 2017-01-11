@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--toast layouy-->
+    <dimen name="toast_layout_width">720px</dimen>
+    <dimen name="toast_layout_height">150px</dimen>
+    <dimen name="toast_layout_padding_left">50px</dimen>
+    <dimen name="toast_layout_padding_right">50px</dimen>
+
+    <!--toogleButton layout-->
+    <dimen name="jtb_start_padding">15dp</dimen>
+    <dimen name="jtb_end_padding">15dp</dimen>
+</resources>
