@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--CycleViewPager-->
+    <color name="cycle_image_bg">#44222222</color>
+</resources>

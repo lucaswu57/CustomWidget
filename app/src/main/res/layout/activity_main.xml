@@ -21,7 +21,6 @@
         android:layout_width="250px"
         android:layout_height="90px"
         android:layout_below="@+id/view1"
-        android:layout_centerHorizontal="true"
         app:checked="false"
         app:buttonType="custom"
         app:backgroundRadius="30dp"
@@ -34,4 +33,16 @@
         app:backgroundColorOn="@color/home_page_switch_on">
 
     </com.qihancloud.widget.custom.SwitchButton>
+
+    <com.qihancloud.widget.custom.imagview.RoundImageView
+        android:id="@+id/round_imageview"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/switch_btn"
+        android:src="@drawable/sanbot_default_bg"
+        app:border_thickness ="5dp"
+        app:border_inside_color="@color/home_page_switch_on"
+        app:border_outside_color="@color/home_page_switch_off"/>
+
+
 </RelativeLayout>
